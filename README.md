@@ -1,10 +1,8 @@
-# [Estevão] <img src="https://i.imgur.com/f8RCAuD.gif" width="30px">
+# Estevão 
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
-
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+Sou <strong>dev</strong>, <strong>to cursando análise e desenvolvimento de sistemas.</strong>
+ Atualmente fullstack: <strong>Estou aprendendo html, css, javascript e python</strong> 
+ Pergunte-me: <strong>Luto artes marciais</strong>
 
 <div align="center">
 
