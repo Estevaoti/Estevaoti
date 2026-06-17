@@ -93,11 +93,9 @@
 
 <div align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&color=black&link=SEU-INSTAGRAM-AQUI)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/igorbarbosaws)
-[![X Badge](https://img.shields.io/badge/-X-6633cc?style=flat-square&logo=X&logoColor=white&color=black&link=SEU-X-AQUI)](https://x.com/igorbarbosaws)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=SUA-ROCKETSEAT-AQUI)](https://app.rocketseat.com.br/me/igorbarbosaws)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:SEU-EMAIL-AQUI)](mailto:igorbarbosaws@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)
+
 
 </div>
 
