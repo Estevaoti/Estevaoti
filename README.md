@@ -1,18 +1,115 @@
-# Estevão 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000a0&height=120&section=header"/>
 
-Sou <strong>dev</strong>, <strong>to cursando análise e desenvolvimento de sistemas.</strong>
- Atualmente fullstack: <strong>Estou aprendendo html, css, javascript e python</strong> 
- Pergunte-me: <strong>Luto artes marciais</strong>
+---
+<!--<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EE00&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,WORLD!+My+name+is+Igor+Barbosa;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29) -->
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+<h2>  Me chamo <strong>Estevão</strong> <br> 
+ <img src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" width="24"></h2>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+<h3>Sobre mim:</h3>
 
+<h4> Aspirante a Dev Full-Stack. <br> Curso tecnologia em análise e desenvolvimento de sistemas pelo embarque digital porto digital <br> </h4>
+
+### Linguagens e Tecnológias:
+<img 
+    align="center" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/de7541874c2a46c5b6173eee41fa359a" 
+/>
+<img 
+    align="center" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="Git" 
+    title="Git"
+    width="21px" 
+    style="padding-right: 10px;" 
+    src="https://m.media-amazon.com/images/I/613c-PS0CIL._AC_UF1000,1000_QL80_.jpg" 
+/>
+<br/>
+<br/>
+
+<div align="center">
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&color=black&link=SEU-INSTAGRAM-AQUI)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/igorbarbosaws)
+[![X Badge](https://img.shields.io/badge/-X-6633cc?style=flat-square&logo=X&logoColor=white&color=black&link=SEU-X-AQUI)](https://x.com/igorbarbosaws)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=SUA-ROCKETSEAT-AQUI)](https://app.rocketseat.com.br/me/igorbarbosaws)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:SEU-EMAIL-AQUI)](mailto:igorbarbosaws@gmail.com)
+
+</div>
+
+## Algumas estatísticas minhas:
+
+<a href="https://github.com/igorbarbosaws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=dark" alt="Github status" />
+</a>
+<a href="https://github.com/igorbarbosaws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=dark" />
+</a>
+<div align="center">  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igorbarbosaws" alt="Status" /> </p>
+<h2>Obrigado</h2>
 </div>
