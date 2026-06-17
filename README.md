@@ -82,8 +82,8 @@
 />
 <img 
     align="center" 
-    alt="Git" 
-    title="Git"
+    alt="Engenharia de prompt" 
+    title="Engenharia de Prompt"
     width="21px" 
     style="padding-right: 10px;" 
     src="https://m.media-amazon.com/images/I/613c-PS0CIL._AC_UF1000,1000_QL80_.jpg" 
@@ -94,20 +94,20 @@
 <div align="center">
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)
+[![LinkedInBadge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)
 
 
 </div>
 
 ## Algumas estatísticas minhas:
 
-<a href="https://github.com/igorbarbosaws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorbarbosaws&show_icons=true&theme=dark" alt="Github status" />
+<a href="https://github.com/Estevaoti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Estevaoti&show_icons=true&theme=dark" alt="Github status" />
 </a>
 <a href="https://github.com/igorbarbosaws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbarbosaws&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E&layout=compact&theme=dark" />
 </a>
 <div align="center">  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=igorbarbosaws" alt="Status" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=estevaoti" alt="Status" /> </p>
 <h2>Obrigado</h2>
 </div>
