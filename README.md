@@ -94,7 +94,7 @@
 <div align="center">
 
 
-[![LinkedInBadge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)
+[![LinkedInBadge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=LinkedIn&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/igorbarbosaws)
 
 
 </div>
